@@ -19,3 +19,4 @@ This project is intended as an educational and informational tool. It does not r
 - Yash Soni
 - Rachit Gupta
 - Udit saini
+- Vikas Tomar
